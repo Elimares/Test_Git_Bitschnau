@@ -12,7 +12,5 @@ public class TestGit {
 		return this. gitFromScratch;
 	}
 	
-	public static void main(String[]args) {
-		System.out.println("Hello");
-	}
+	
 }
